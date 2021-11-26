@@ -1,3 +1,18 @@
+## vue2.0 封装一个轮播组件源码
+```
+  npm install  下载依赖
+  
+  npm run serve  运行项目
+  
+```
+
+
+
+## 组件已发布到 npm 库
+```
+  https://www.npmjs.com/package/component-carousel
+```
+
 ## 安装
 ```
 npm install 
